@@ -13,3 +13,8 @@ C:\Users\klari\OneDrive\Área de Trabalho\SENAI\atividade\obj\Debug\net7.0\refin
 C:\Users\klari\OneDrive\Área de Trabalho\SENAI\atividade\obj\Debug\net7.0\Atividade.pdb
 C:\Users\klari\OneDrive\Área de Trabalho\SENAI\atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
 C:\Users\klari\OneDrive\Área de Trabalho\SENAI\atividade\obj\Debug\net7.0\ref\Atividade.dll
+C:\Users\klari\OneDrive\Área de Trabalho\SENAI\Atividade\output\Atividade.exe
+C:\Users\klari\OneDrive\Área de Trabalho\SENAI\Atividade\output\Atividade.deps.json
+C:\Users\klari\OneDrive\Área de Trabalho\SENAI\Atividade\output\Atividade.runtimeconfig.json
+C:\Users\klari\OneDrive\Área de Trabalho\SENAI\Atividade\output\Atividade.dll
+C:\Users\klari\OneDrive\Área de Trabalho\SENAI\Atividade\output\Atividade.pdb

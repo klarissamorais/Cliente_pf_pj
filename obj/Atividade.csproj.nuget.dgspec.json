@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\klari\\OneDrive\\Área de Trabalho\\SENAI\\atividade\\Atividade.csproj": {}
+    "C:\\Users\\klari\\OneDrive\\Área de Trabalho\\SENAI\\Atividade\\Atividade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\klari\\OneDrive\\Área de Trabalho\\SENAI\\atividade\\Atividade.csproj": {
+    "C:\\Users\\klari\\OneDrive\\Área de Trabalho\\SENAI\\Atividade\\Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klari\\OneDrive\\Área de Trabalho\\SENAI\\atividade\\Atividade.csproj",
+        "projectUniqueName": "C:\\Users\\klari\\OneDrive\\Área de Trabalho\\SENAI\\Atividade\\Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "C:\\Users\\klari\\OneDrive\\Área de Trabalho\\SENAI\\atividade\\Atividade.csproj",
+        "projectPath": "C:\\Users\\klari\\OneDrive\\Área de Trabalho\\SENAI\\Atividade\\Atividade.csproj",
         "packagesPath": "C:\\Users\\klari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klari\\OneDrive\\Área de Trabalho\\SENAI\\atividade\\obj\\",
+        "outputPath": "C:\\Users\\klari\\OneDrive\\Área de Trabalho\\SENAI\\Atividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klari\\AppData\\Roaming\\NuGet\\NuGet.Config"
